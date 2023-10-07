@@ -26,3 +26,5 @@ replay_pid*
 # IDE
 .idea
 
+# OS
+.DS_Store
