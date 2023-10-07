@@ -1,6 +1,8 @@
 # Metro Monitoring Application
+
+![](../Metro-Monitoring-Application/application_ui.png)
 ## Description
-Object-oriented Java application that enables a metro station to monitor gates and validates tickets for users.
+Object-Oriented Java application that enables a metro station to monitor gates and validates tickets for users.
 ## Requirements
 - Java 8
 ## OOP Design Patterns
